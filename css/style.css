@@ -1069,12 +1069,10 @@ section{
 }
 .dot40 {
 	margin:-25px 0px 0px 160px;
-	width:21px;
-	height:21px;
+	width:25px;
+	height:25px;
 	border-radius:50%;
-	border-color: #ffffff;
-	border-style: solid;
-	background-color:#00001a;
+	background-color:#ffffff;
 	display: flex;
 	justify-content: center;
 	align-items:center;
